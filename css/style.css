@@ -2,7 +2,16 @@ div#coming-soon {
     text-align: center;
     font-family: sans-serif;
     position: absolute;
-    top: 50%;
-    left: 40%;
+    top: 30%;
+    /* left: 40%; */
 
+}
+
+span#stylised-name {
+    color: indianred;
+}
+
+#coming-soon p {
+    margin: auto;
+    width: 60%;
 }
